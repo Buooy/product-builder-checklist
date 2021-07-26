@@ -4,4 +4,4 @@ Checklists to determine if you have a sustainable, repeatable and reliable produ
 
 ## Engineering
 
-1.  Software Development: https://gist.github.com/Buooy/e3eb2680fa67a85d71e92029bc08a5a3
+1.  Software Development: https://github.com/Buooy/product-builder-checklist/blob/main/ENGINEERING-SOFTWARE_DEVELOPMENT.md
