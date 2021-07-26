@@ -17,7 +17,8 @@ this is not meant to be a definitive exhaustive guide. but in general, fulfillin
 - [ ]  do you have code styles established
 - [ ]  do you have linting in place
 - [ ]  are you automating linting
-- [ ]  do you run code quality tools eg sonarqube regularly
+- [ ]  do you track code quality
+- [ ]  do you automate code quality checks eg sonarqube
 
 # Security
 
